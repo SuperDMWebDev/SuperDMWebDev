@@ -1,5 +1,8 @@
 Hi, I'm Minh 👋🏾 👩🏾‍💻
 
+<picture>
+    <img alt="avatar" src="/avatar-ai.png"/>
+ </picture>
 
 **SuperDMWebDev/SuperDMWebDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
