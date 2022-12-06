@@ -4,8 +4,8 @@ Hi, I'm Minh 👋🏾 👩🏾‍💻
 
 I am an innovative developer with more than 1 year experience in building and maintaining responsive websites in the recruiting industry. Proficient in HTML, CSS, javascript and java with modern libraries and other frameworks. Passionate about usability and possess working knowledge of Adobe Photoshop. 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SuperDMWebDev&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDMWebDev&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=SuperDMWebDev&count_private=true&theme=tokyonight&showicons=true)]() <br/>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SuperDMWebDev&langs_count=5&theme=tokyonight)]() <br/>
 
 
 
